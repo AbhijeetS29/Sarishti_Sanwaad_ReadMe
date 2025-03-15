@@ -38,9 +38,9 @@ https://github.com/user-attachments/assets/e778d43d-a79f-4673-b195-8344b492e746
   <p>Mr. Vivek Joshi is the President of Madhav Sewa Society, known for his contributions to literature and community service. His books cover a wide range of topics, including education, social welfare, and personal development.</p>
 
   <h2>Contact:</h2>
-  <p>For support or inquiries, please contact [your contact information].</p>
+  <p>For support or inquiries, please contact [s2.abhijeet@gmail.com].</p>
 
-  <h2>License:</h2>
-  <p>This project is licensed under [license name]. See the LICENSE file for details.</p>
+  <h2>Thankyou</h2>
+  <p>Abhijeet Singh</p>
 </body>
 </html>
